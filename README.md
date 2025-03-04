@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>About Me</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p>My name is Justin.</p>
 </body>
 </html>
